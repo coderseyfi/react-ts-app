@@ -1,0 +1,4 @@
+  //todo : () => void - Type definition of function, geriye hec bir deyer dondurmur.
+  //todo : React.FormEvent - eventin tipini gosterir bir novu.
+  //todo : todoTextInputRef.current! - nida gelen deyerin 100% null olmadigini deyir.
+  //todo : MouseEvent , ChangeEvent ve s. bunlari yazmadan error verir.
